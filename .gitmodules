@@ -1,0 +1,6 @@
+[submodule "submodules/reveal-js"]
+	path = submodules/reveal-js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "submodules/jvectormap"]
+	path = submodules/jvectormap
+	url = https://github.com/bjornd/jvectormap.git
